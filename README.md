@@ -5,6 +5,6 @@
 - Structure: one problem = one project
 
 ## Progress
-- Easy: 09
+- Easy: 10
 - Medium: 0
 - Hard: 0
