@@ -1,10 +1,11 @@
 # LeetCode Practice (C#)
 
-- Daily LeetCode problems
-- Language: C#
-- Structure: one problem = one project
+* Daily LeetCode problems
+* Language: C#
+* Structure: one problem = one project
 
 ## Progress
-- Easy: 31
-- Medium: 0
-- Hard: 0
+
+* Easy: 32
+* Medium: 0
+* Hard: 0
