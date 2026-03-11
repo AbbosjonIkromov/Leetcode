@@ -283,6 +283,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0342-PowerOfFour", "0342-Po
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfFour", "PowerOfFour\PowerOfFour.csproj", "{CE4923F6-04D3-4974-B428-8E153A34DC1A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0448-FindAllNumbersDisappearedInAnArray", "0448-FindAllNumbersDisappearedInAnArray", "{B4BD4799-BC31-42AA-8C4F-3CE71950B46E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindAllNumbersDisappearedInAnArray", "FindAllNumbersDisappearedInAnArray\FindAllNumbersDisappearedInAnArray.csproj", "{C40ED1B1-9CF6-41B7-80A8-0EC2A7F1F5D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -565,6 +569,10 @@ Global
 		{CE4923F6-04D3-4974-B428-8E153A34DC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE4923F6-04D3-4974-B428-8E153A34DC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE4923F6-04D3-4974-B428-8E153A34DC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C40ED1B1-9CF6-41B7-80A8-0EC2A7F1F5D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C40ED1B1-9CF6-41B7-80A8-0EC2A7F1F5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C40ED1B1-9CF6-41B7-80A8-0EC2A7F1F5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C40ED1B1-9CF6-41B7-80A8-0EC2A7F1F5D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -709,6 +717,8 @@ Global
 		{5781B753-4F54-49DC-938F-4BB39AC7078E} = {FC69EE38-2DF7-4181-AD87-A9468B511698}
 		{E4319DEB-CEB6-4E7A-B991-11B833E30133} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
 		{CE4923F6-04D3-4974-B428-8E153A34DC1A} = {E4319DEB-CEB6-4E7A-B991-11B833E30133}
+		{B4BD4799-BC31-42AA-8C4F-3CE71950B46E} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
+		{C40ED1B1-9CF6-41B7-80A8-0EC2A7F1F5D5} = {B4BD4799-BC31-42AA-8C4F-3CE71950B46E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE08E871-FDBD-468A-B8E4-3C246617C7A0}
