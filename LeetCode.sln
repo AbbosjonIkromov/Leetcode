@@ -351,6 +351,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0232-ImplementQueueUsingSta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementQueueUsingStacks", "ImplementQueueUsingStacks\ImplementQueueUsingStacks.csproj", "{E9E55062-DE85-4D21-9FD7-EF9FA808FA03}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0485-MaxConsecutiveOnes", "0485-MaxConsecutiveOnes", "{B19D2E30-E208-4357-8E76-A68FBAA8DB3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxConsecutiveOne", "MaxConsecutiveOne\MaxConsecutiveOne.csproj", "{4DD6FE28-F295-48C5-99DD-33490DFFB627}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -701,6 +705,10 @@ Global
 		{E9E55062-DE85-4D21-9FD7-EF9FA808FA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9E55062-DE85-4D21-9FD7-EF9FA808FA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9E55062-DE85-4D21-9FD7-EF9FA808FA03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD6FE28-F295-48C5-99DD-33490DFFB627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD6FE28-F295-48C5-99DD-33490DFFB627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD6FE28-F295-48C5-99DD-33490DFFB627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD6FE28-F295-48C5-99DD-33490DFFB627}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -879,6 +887,8 @@ Global
 		{2F710021-D56A-46D2-ACBF-DBB111E5C6E0} = {20CA99EC-0AD1-49F4-90BA-15E189545B3D}
 		{F71EDCD8-D697-4D50-B0CB-F88F96762808} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
 		{E9E55062-DE85-4D21-9FD7-EF9FA808FA03} = {F71EDCD8-D697-4D50-B0CB-F88F96762808}
+		{B19D2E30-E208-4357-8E76-A68FBAA8DB3F} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
+		{4DD6FE28-F295-48C5-99DD-33490DFFB627} = {B19D2E30-E208-4357-8E76-A68FBAA8DB3F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE08E871-FDBD-468A-B8E4-3C246617C7A0}
