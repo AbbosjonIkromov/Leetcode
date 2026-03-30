@@ -359,6 +359,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2839-CheckIfStringsCanBeMad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfStringsCanBeMadeEqualsWithOperationsI", "CheckIfStringsCanBeMadeEqualsWithOperationsI\CheckIfStringsCanBeMadeEqualsWithOperationsI.csproj", "{151ECFBC-CA91-42DE-9FA0-F9B931C0A115}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0705-DesignHashSet", "0705-DesignHashSet", "{FB54DEEA-2C7F-4115-849A-2B19EEC2CD4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignHashSet", "DesignHashSet\DesignHashSet.csproj", "{C86B4F7E-4513-47C3-B33A-43A6447A1150}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -717,6 +721,10 @@ Global
 		{151ECFBC-CA91-42DE-9FA0-F9B931C0A115}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{151ECFBC-CA91-42DE-9FA0-F9B931C0A115}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{151ECFBC-CA91-42DE-9FA0-F9B931C0A115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C86B4F7E-4513-47C3-B33A-43A6447A1150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86B4F7E-4513-47C3-B33A-43A6447A1150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86B4F7E-4513-47C3-B33A-43A6447A1150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86B4F7E-4513-47C3-B33A-43A6447A1150}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -899,6 +907,8 @@ Global
 		{4DD6FE28-F295-48C5-99DD-33490DFFB627} = {B19D2E30-E208-4357-8E76-A68FBAA8DB3F}
 		{F5065349-F0FC-4595-A1E9-B08012570145} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
 		{151ECFBC-CA91-42DE-9FA0-F9B931C0A115} = {F5065349-F0FC-4595-A1E9-B08012570145}
+		{FB54DEEA-2C7F-4115-849A-2B19EEC2CD4A} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
+		{C86B4F7E-4513-47C3-B33A-43A6447A1150} = {FB54DEEA-2C7F-4115-849A-2B19EEC2CD4A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE08E871-FDBD-468A-B8E4-3C246617C7A0}
