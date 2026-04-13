@@ -36,4 +36,4 @@ public class Solution
     {
         return words.Any(w => w != str && w.Contains(str));
     }
-}
+}   
