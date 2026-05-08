@@ -507,6 +507,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1859-SortingTheSentence", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingTheSentence", "SortingTheSentence\SortingTheSentence.csproj", "{EE932C72-C6A9-4F24-B185-62870D32D04B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2062-CountVowelSubstringsOfAString", "2062-CountVowelSubstringsOfAString", "{2A13CC19-B0A4-437C-AE30-89E7B80624E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountVowelSubstringsOfAString", "CountVowelSubstringsOfAString\CountVowelSubstringsOfAString.csproj", "{D23A0499-8E31-410E-9C45-204DFFB45533}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1013,6 +1017,10 @@ Global
 		{EE932C72-C6A9-4F24-B185-62870D32D04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE932C72-C6A9-4F24-B185-62870D32D04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE932C72-C6A9-4F24-B185-62870D32D04B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23A0499-8E31-410E-9C45-204DFFB45533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23A0499-8E31-410E-9C45-204DFFB45533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23A0499-8E31-410E-9C45-204DFFB45533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23A0499-8E31-410E-9C45-204DFFB45533}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1269,6 +1277,8 @@ Global
 		{7332C0C2-F50A-4376-A149-B12AFDBF7C64} = {60AB81A0-5E2F-4480-9DAB-AEAD42ECB074}
 		{D0A05D2D-571F-4342-B1ED-8263A02FCDEC} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
 		{EE932C72-C6A9-4F24-B185-62870D32D04B} = {D0A05D2D-571F-4342-B1ED-8263A02FCDEC}
+		{2A13CC19-B0A4-437C-AE30-89E7B80624E6} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
+		{D23A0499-8E31-410E-9C45-204DFFB45533} = {2A13CC19-B0A4-437C-AE30-89E7B80624E6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE08E871-FDBD-468A-B8E4-3C246617C7A0}
