@@ -527,6 +527,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1598-CrawlerLogFolder", "15
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlerLogFolder", "CrawlerLogFolder\CrawlerLogFolder.csproj", "{A888DDEE-1C7D-44ED-8650-4CB23EF0AFEE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0884-UncommonWordsFromTwoSentences", "0884-UncommonWordsFromTwoSentences", "{19DAB9BD-3C0C-4185-B5C2-24BB864B9BB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UncommonWordsFromTwoSentences", "UncommonWordsFromTwoSentences\UncommonWordsFromTwoSentences.csproj", "{CD66F2E8-3B1B-40E9-AE5D-7C7F2EE7B8C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1053,6 +1057,10 @@ Global
 		{A888DDEE-1C7D-44ED-8650-4CB23EF0AFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A888DDEE-1C7D-44ED-8650-4CB23EF0AFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A888DDEE-1C7D-44ED-8650-4CB23EF0AFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD66F2E8-3B1B-40E9-AE5D-7C7F2EE7B8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD66F2E8-3B1B-40E9-AE5D-7C7F2EE7B8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD66F2E8-3B1B-40E9-AE5D-7C7F2EE7B8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD66F2E8-3B1B-40E9-AE5D-7C7F2EE7B8C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1319,6 +1327,8 @@ Global
 		{751AF41A-BF01-45FE-A10C-E57638633E16} = {857DA928-2A44-4288-8E21-46E4277F7130}
 		{AA6E3F61-951C-4FAF-A216-107807FE05E2} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
 		{A888DDEE-1C7D-44ED-8650-4CB23EF0AFEE} = {AA6E3F61-951C-4FAF-A216-107807FE05E2}
+		{19DAB9BD-3C0C-4185-B5C2-24BB864B9BB6} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
+		{CD66F2E8-3B1B-40E9-AE5D-7C7F2EE7B8C0} = {19DAB9BD-3C0C-4185-B5C2-24BB864B9BB6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE08E871-FDBD-468A-B8E4-3C246617C7A0}
