@@ -531,6 +531,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0884-UncommonWordsFromTwoSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UncommonWordsFromTwoSentences", "UncommonWordsFromTwoSentences\UncommonWordsFromTwoSentences.csproj", "{CD66F2E8-3B1B-40E9-AE5D-7C7F2EE7B8C0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1763-LongestNiceSubString", "1763-LongestNiceSubString", "{466431A4-9186-4713-BE8B-20F2DC9230E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestNiceSubString", "LongestNiceSubString\LongestNiceSubString.csproj", "{6FD72481-5C06-465D-BCE3-5E17B5A699BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1061,6 +1065,10 @@ Global
 		{CD66F2E8-3B1B-40E9-AE5D-7C7F2EE7B8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD66F2E8-3B1B-40E9-AE5D-7C7F2EE7B8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD66F2E8-3B1B-40E9-AE5D-7C7F2EE7B8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD72481-5C06-465D-BCE3-5E17B5A699BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD72481-5C06-465D-BCE3-5E17B5A699BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD72481-5C06-465D-BCE3-5E17B5A699BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD72481-5C06-465D-BCE3-5E17B5A699BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1329,6 +1337,8 @@ Global
 		{A888DDEE-1C7D-44ED-8650-4CB23EF0AFEE} = {AA6E3F61-951C-4FAF-A216-107807FE05E2}
 		{19DAB9BD-3C0C-4185-B5C2-24BB864B9BB6} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
 		{CD66F2E8-3B1B-40E9-AE5D-7C7F2EE7B8C0} = {19DAB9BD-3C0C-4185-B5C2-24BB864B9BB6}
+		{466431A4-9186-4713-BE8B-20F2DC9230E6} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
+		{6FD72481-5C06-465D-BCE3-5E17B5A699BE} = {466431A4-9186-4713-BE8B-20F2DC9230E6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE08E871-FDBD-468A-B8E4-3C246617C7A0}
