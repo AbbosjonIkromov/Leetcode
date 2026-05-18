@@ -6,7 +6,7 @@
 
 ## Progress
 
-* Easy: 130
+* Easy: 131
 * Medium: 0
 * Hard: 0
 
