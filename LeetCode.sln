@@ -551,6 +551,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1370-IncreasingDecreasingSt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncreasingDecreasingString", "IncreasingDecreasingString\IncreasingDecreasingString.csproj", "{80E3D2F2-C13B-458A-8AB9-8CD78F7F59A6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0844-BackspaceStringCompare", "0844-BackspaceStringCompare", "{442B7308-CA31-4405-A528-75BC0373D4E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackspaceStringCompare", "BackspaceStringCompare\BackspaceStringCompare.csproj", "{37D9E43C-897C-444A-8BE5-ED4833F8B2E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1101,6 +1105,10 @@ Global
 		{80E3D2F2-C13B-458A-8AB9-8CD78F7F59A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80E3D2F2-C13B-458A-8AB9-8CD78F7F59A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80E3D2F2-C13B-458A-8AB9-8CD78F7F59A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37D9E43C-897C-444A-8BE5-ED4833F8B2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D9E43C-897C-444A-8BE5-ED4833F8B2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D9E43C-897C-444A-8BE5-ED4833F8B2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D9E43C-897C-444A-8BE5-ED4833F8B2E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1379,6 +1387,8 @@ Global
 		{2FA9CD6E-66ED-4EE1-A09B-DD581A8467FA} = {0CD9F467-74AB-4815-A58F-BE135C58D4D4}
 		{F056E45C-6599-4BD4-A47C-9C936F91471F} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
 		{80E3D2F2-C13B-458A-8AB9-8CD78F7F59A6} = {F056E45C-6599-4BD4-A47C-9C936F91471F}
+		{442B7308-CA31-4405-A528-75BC0373D4E3} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
+		{37D9E43C-897C-444A-8BE5-ED4833F8B2E5} = {442B7308-CA31-4405-A528-75BC0373D4E3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE08E871-FDBD-468A-B8E4-3C246617C7A0}
