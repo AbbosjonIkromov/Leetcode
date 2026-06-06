@@ -587,6 +587,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1002-FindCommonCharacters",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindCommonCharacters", "FindCommonCharacters\FindCommonCharacters.csproj", "{60F4CA92-E87B-4EA1-8CEB-0DEEB7F891AE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1009-ComplementOfBase10Integer", "1009-ComplementOfBase10Integer", "{C390B95E-1C21-4918-9087-CAE07322D0CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplementOfBase10Integer", "ComplementOfBase10Integer\ComplementOfBase10Integer.csproj", "{2FF337DE-DA00-4216-B76E-35D1F4F631AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1173,6 +1177,10 @@ Global
 		{60F4CA92-E87B-4EA1-8CEB-0DEEB7F891AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60F4CA92-E87B-4EA1-8CEB-0DEEB7F891AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60F4CA92-E87B-4EA1-8CEB-0DEEB7F891AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FF337DE-DA00-4216-B76E-35D1F4F631AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF337DE-DA00-4216-B76E-35D1F4F631AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF337DE-DA00-4216-B76E-35D1F4F631AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF337DE-DA00-4216-B76E-35D1F4F631AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1469,6 +1477,8 @@ Global
 		{BA1ADB05-AC15-4997-BF38-AD2B17A9D0B6} = {A90223D1-E17E-4305-A3F1-C4BC4D97F2C0}
 		{B1AEDFDF-B831-40EE-A0F0-35EA51287B52} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
 		{60F4CA92-E87B-4EA1-8CEB-0DEEB7F891AE} = {B1AEDFDF-B831-40EE-A0F0-35EA51287B52}
+		{C390B95E-1C21-4918-9087-CAE07322D0CF} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
+		{2FF337DE-DA00-4216-B76E-35D1F4F631AD} = {C390B95E-1C21-4918-9087-CAE07322D0CF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE08E871-FDBD-468A-B8E4-3C246617C7A0}
