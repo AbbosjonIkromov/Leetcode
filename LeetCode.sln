@@ -611,6 +611,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0908-SmallestRangeI", "0908
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestRangeI", "SmallestRangeI\SmallestRangeI.csproj", "{FA66FF00-641C-4891-BDF8-31037D52D1D9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1047-RemoveAllAdjacentDuplicatesInString", "1047-RemoveAllAdjacentDuplicatesInString", "{1604A93E-6473-443F-885C-C672A4712B81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveAllAdjacentDuplicatesInString", "RemoveAllAdjacentDuplicatesInString\RemoveAllAdjacentDuplicatesInString.csproj", "{FBC59950-08DE-4FE0-B1DC-731937097357}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1221,6 +1225,10 @@ Global
 		{FA66FF00-641C-4891-BDF8-31037D52D1D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA66FF00-641C-4891-BDF8-31037D52D1D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA66FF00-641C-4891-BDF8-31037D52D1D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC59950-08DE-4FE0-B1DC-731937097357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC59950-08DE-4FE0-B1DC-731937097357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC59950-08DE-4FE0-B1DC-731937097357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC59950-08DE-4FE0-B1DC-731937097357}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1529,6 +1537,8 @@ Global
 		{DD3E8570-A6D7-4052-875C-BD7C857519FE} = {2C073913-E4E4-4D48-9499-BBE151B9D40E}
 		{132CA97F-A8E8-4486-B659-7C27BECC64D9} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
 		{FA66FF00-641C-4891-BDF8-31037D52D1D9} = {132CA97F-A8E8-4486-B659-7C27BECC64D9}
+		{1604A93E-6473-443F-885C-C672A4712B81} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
+		{FBC59950-08DE-4FE0-B1DC-731937097357} = {1604A93E-6473-443F-885C-C672A4712B81}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE08E871-FDBD-468A-B8E4-3C246617C7A0}
