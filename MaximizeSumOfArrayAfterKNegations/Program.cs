@@ -24,24 +24,30 @@ public class Solution
     public int LargestSumAfterKNegations(int[] nums, int k)
     {
         Array.Sort(nums);
-        int sum = 0;
-        for (int i = 0; i < nums.Length; i++)
+
+        for (int i = 0; i < nums.Length && k > 0; i++)
         {
-            if (nums[i] < 0 && k > 0)
+            if (nums[i] < 0)
             {
-                sum -= nums[i];
+                nums[i] = -nums[i];
                 k--;
-            }
-            else
-            {
-                sum += nums[i];
             }
         }
 
-        if (k > 0 && nums[0] >= 0)
+        int sum = 0;
+        int min = int.MaxValue;
+
+        for (int i = 0; i < nums.Length; i++)
         {
-            sum -= 2 * nums[0];
+            sum += nums[i];
+            min = Math.Min(min, nums[i]);
         }
+
+        if (k % 2 == 1)
+        {
+            sum -= 2 * min;
+        }
+
         return sum;
     }
 }
