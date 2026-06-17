@@ -1,0 +1,44 @@
+﻿namespace SortArrayByParityII;
+
+internal class Program
+{
+    static void Main(string[] args)
+    {
+        Solution solution = new Solution();
+
+        Test(solution, new int[] { 4, 2, 5, 7 }); // Output: [4, 5, 2, 7]
+    }
+
+    static void Test(Solution solution, int[] nums)
+    {
+        var result = solution.SortArrayByParityII(nums);
+        Console.WriteLine($"[{string.Join(", ", result)}]");
+    }
+}
+
+
+public class Solution
+{
+    public int[] SortArrayByParityII(int[] nums)
+    {
+        int[] result = new int[nums.Length];
+
+        int evenIndex = 0;
+        int oddIndex = 1;
+        for (int i = 0; i < nums.Length; i++)
+        {
+            if (nums[i] % 2 == 0)
+            {
+                result[evenIndex] = nums[i];
+                evenIndex += 2;
+            }
+            else
+            {
+                result[oddIndex] = nums[i];
+                oddIndex += 2;
+            }
+        }
+
+        return result;
+    }
+}
