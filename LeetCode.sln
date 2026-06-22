@@ -631,6 +631,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0999-AvailableCapturesForRo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvailableCapturesForRook", "AvailableCapturesForRook\AvailableCapturesForRook.csproj", "{FE1A6E19-5161-4A7B-BA04-E975F8E653FD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1103-DistibuteCandiesToPeople", "1103-DistibuteCandiesToPeople", "{A21B6FB8-D38D-4AD2-9261-BDF8C57BA0F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistibuteCandiesToPeople", "DistibuteCandiesToPeople\DistibuteCandiesToPeople.csproj", "{920D4F0A-E180-4C7F-B6FC-5BF4A3254601}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1261,6 +1265,10 @@ Global
 		{FE1A6E19-5161-4A7B-BA04-E975F8E653FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE1A6E19-5161-4A7B-BA04-E975F8E653FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE1A6E19-5161-4A7B-BA04-E975F8E653FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{920D4F0A-E180-4C7F-B6FC-5BF4A3254601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920D4F0A-E180-4C7F-B6FC-5BF4A3254601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920D4F0A-E180-4C7F-B6FC-5BF4A3254601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920D4F0A-E180-4C7F-B6FC-5BF4A3254601}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1579,6 +1587,8 @@ Global
 		{0137C7A4-A01A-44B8-ABE5-0D48018F3056} = {26F1CF8C-10D7-4A8A-B6A8-0E9FC9B020DE}
 		{2A26A04F-0C32-41B9-A4EB-348F1467C554} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
 		{FE1A6E19-5161-4A7B-BA04-E975F8E653FD} = {2A26A04F-0C32-41B9-A4EB-348F1467C554}
+		{A21B6FB8-D38D-4AD2-9261-BDF8C57BA0F3} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
+		{920D4F0A-E180-4C7F-B6FC-5BF4A3254601} = {A21B6FB8-D38D-4AD2-9261-BDF8C57BA0F3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE08E871-FDBD-468A-B8E4-3C246617C7A0}
