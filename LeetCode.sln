@@ -635,6 +635,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1103-DistibuteCandiesToPeop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistibuteCandiesToPeople", "DistibuteCandiesToPeople\DistibuteCandiesToPeople.csproj", "{920D4F0A-E180-4C7F-B6FC-5BF4A3254601}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0696-CountBinarySubstrings", "0696-CountBinarySubstrings", "{96587F18-5A4B-4EF1-B7F0-3E2963F39772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountBinarySubstrings", "CountBinarySubstrings\CountBinarySubstrings.csproj", "{4BF58E9D-8C25-420C-9075-8A0F7580D14C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1269,6 +1273,10 @@ Global
 		{920D4F0A-E180-4C7F-B6FC-5BF4A3254601}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{920D4F0A-E180-4C7F-B6FC-5BF4A3254601}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{920D4F0A-E180-4C7F-B6FC-5BF4A3254601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF58E9D-8C25-420C-9075-8A0F7580D14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF58E9D-8C25-420C-9075-8A0F7580D14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF58E9D-8C25-420C-9075-8A0F7580D14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF58E9D-8C25-420C-9075-8A0F7580D14C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1589,6 +1597,8 @@ Global
 		{FE1A6E19-5161-4A7B-BA04-E975F8E653FD} = {2A26A04F-0C32-41B9-A4EB-348F1467C554}
 		{A21B6FB8-D38D-4AD2-9261-BDF8C57BA0F3} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
 		{920D4F0A-E180-4C7F-B6FC-5BF4A3254601} = {A21B6FB8-D38D-4AD2-9261-BDF8C57BA0F3}
+		{96587F18-5A4B-4EF1-B7F0-3E2963F39772} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
+		{4BF58E9D-8C25-420C-9075-8A0F7580D14C} = {96587F18-5A4B-4EF1-B7F0-3E2963F39772}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE08E871-FDBD-468A-B8E4-3C246617C7A0}
