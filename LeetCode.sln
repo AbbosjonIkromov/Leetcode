@@ -639,6 +639,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0696-CountBinarySubstrings"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountBinarySubstrings", "CountBinarySubstrings\CountBinarySubstrings.csproj", "{4BF58E9D-8C25-420C-9075-8A0F7580D14C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0917-ReverseOnlyLetters", "0917-ReverseOnlyLetters", "{68D1A9FF-EAF0-47BC-8D8E-F3091FBD5968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseOnlyLetters", "ReverseOnlyLetters\ReverseOnlyLetters.csproj", "{F52DFAD0-8345-4E25-98AC-B35C3FD745F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1277,6 +1281,10 @@ Global
 		{4BF58E9D-8C25-420C-9075-8A0F7580D14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BF58E9D-8C25-420C-9075-8A0F7580D14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BF58E9D-8C25-420C-9075-8A0F7580D14C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F52DFAD0-8345-4E25-98AC-B35C3FD745F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52DFAD0-8345-4E25-98AC-B35C3FD745F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52DFAD0-8345-4E25-98AC-B35C3FD745F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52DFAD0-8345-4E25-98AC-B35C3FD745F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1599,6 +1607,8 @@ Global
 		{920D4F0A-E180-4C7F-B6FC-5BF4A3254601} = {A21B6FB8-D38D-4AD2-9261-BDF8C57BA0F3}
 		{96587F18-5A4B-4EF1-B7F0-3E2963F39772} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
 		{4BF58E9D-8C25-420C-9075-8A0F7580D14C} = {96587F18-5A4B-4EF1-B7F0-3E2963F39772}
+		{68D1A9FF-EAF0-47BC-8D8E-F3091FBD5968} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
+		{F52DFAD0-8345-4E25-98AC-B35C3FD745F9} = {68D1A9FF-EAF0-47BC-8D8E-F3091FBD5968}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE08E871-FDBD-468A-B8E4-3C246617C7A0}
