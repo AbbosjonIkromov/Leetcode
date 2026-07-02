@@ -651,6 +651,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1480-RunningSumOf1DArray", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningSumOf1DArray", "RunningSumOf1DArray\RunningSumOf1DArray.csproj", "{785F50C9-E03E-40F1-BE1D-C5D697851F01}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1071-GreatestCommonDivisorOfStrings", "1071-GreatestCommonDivisorOfStrings", "{BD0C1729-560F-4CC7-9273-CA51605CD028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestCommonDivisorOfStrings", "GreatestCommonDivisorOfStrings\GreatestCommonDivisorOfStrings.csproj", "{39731418-2C85-44F7-9940-20A4A2637D19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1301,6 +1305,10 @@ Global
 		{785F50C9-E03E-40F1-BE1D-C5D697851F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{785F50C9-E03E-40F1-BE1D-C5D697851F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{785F50C9-E03E-40F1-BE1D-C5D697851F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39731418-2C85-44F7-9940-20A4A2637D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39731418-2C85-44F7-9940-20A4A2637D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39731418-2C85-44F7-9940-20A4A2637D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39731418-2C85-44F7-9940-20A4A2637D19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1629,6 +1637,8 @@ Global
 		{2736A8D1-7841-466B-B5E8-F8D5FDC69C45} = {8A4930D6-048A-47C8-BF11-181678AC0A1E}
 		{96B5BD06-6D4B-43DC-9203-B6BBDE6B2E5B} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
 		{785F50C9-E03E-40F1-BE1D-C5D697851F01} = {96B5BD06-6D4B-43DC-9203-B6BBDE6B2E5B}
+		{BD0C1729-560F-4CC7-9273-CA51605CD028} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
+		{39731418-2C85-44F7-9940-20A4A2637D19} = {BD0C1729-560F-4CC7-9273-CA51605CD028}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE08E871-FDBD-468A-B8E4-3C246617C7A0}
