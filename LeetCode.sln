@@ -669,6 +669,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1331-RankTransformOfAnArray
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RankTransformOfAnArray", "RankTransformOfAnArray\RankTransformOfAnArray.csproj", "{74BFC051-C8C4-4694-9FC4-A76C4C93F655}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1295-FindNumbersWithEvenNumberOfDigits", "1295-FindNumbersWithEvenNumberOfDigits", "{A8D5440B-856D-4BB0-BDD4-97BC0C3BE15B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindNumbersWithEvenNumberOfDigits", "FindNumbersWithEvenNumberOfDigits\FindNumbersWithEvenNumberOfDigits.csproj", "{F6B3BC79-836A-480E-9814-420E435F5420}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1335,6 +1339,10 @@ Global
 		{74BFC051-C8C4-4694-9FC4-A76C4C93F655}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74BFC051-C8C4-4694-9FC4-A76C4C93F655}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74BFC051-C8C4-4694-9FC4-A76C4C93F655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B3BC79-836A-480E-9814-420E435F5420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B3BC79-836A-480E-9814-420E435F5420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B3BC79-836A-480E-9814-420E435F5420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B3BC79-836A-480E-9814-420E435F5420}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1672,6 +1680,8 @@ Global
 		{DE62FA3C-5E86-4143-8BEE-296E0B292110} = {D2CCA905-3C26-467D-AE76-2EB11407C5F3}
 		{527B0DB8-A7EE-4B82-BC50-140BA868D7C2} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
 		{74BFC051-C8C4-4694-9FC4-A76C4C93F655} = {527B0DB8-A7EE-4B82-BC50-140BA868D7C2}
+		{A8D5440B-856D-4BB0-BDD4-97BC0C3BE15B} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
+		{F6B3BC79-836A-480E-9814-420E435F5420} = {A8D5440B-856D-4BB0-BDD4-97BC0C3BE15B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE08E871-FDBD-468A-B8E4-3C246617C7A0}
