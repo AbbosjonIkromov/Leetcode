@@ -687,6 +687,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1313-DecompressRun-LengthEn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecompressRun-LengthEncodedList", "DecompressRun-LengthEncodedList\DecompressRun-LengthEncodedList.csproj", "{B8608E81-B857-4D75-A6D2-8DB5F97CE907}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1556-ThousandSeparator", "1556-ThousandSeparator", "{1AF53C47-3525-4BC6-8F3C-50141036BD2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThousandSeparator", "ThousandSeparator\ThousandSeparator.csproj", "{BFBFC27A-1299-480F-81A2-886C1ECA51DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1373,6 +1377,10 @@ Global
 		{B8608E81-B857-4D75-A6D2-8DB5F97CE907}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8608E81-B857-4D75-A6D2-8DB5F97CE907}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8608E81-B857-4D75-A6D2-8DB5F97CE907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFBFC27A-1299-480F-81A2-886C1ECA51DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBFC27A-1299-480F-81A2-886C1ECA51DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBFC27A-1299-480F-81A2-886C1ECA51DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBFC27A-1299-480F-81A2-886C1ECA51DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1719,6 +1727,8 @@ Global
 		{D586AC6A-B8D1-4E98-AA49-9ABADE5DB397} = {E910610C-3B30-4E0A-8621-73C36F7E8CBE}
 		{AFFB71B5-3BA8-432C-B00A-1A7DDCA70142} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
 		{B8608E81-B857-4D75-A6D2-8DB5F97CE907} = {AFFB71B5-3BA8-432C-B00A-1A7DDCA70142}
+		{1AF53C47-3525-4BC6-8F3C-50141036BD2E} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
+		{BFBFC27A-1299-480F-81A2-886C1ECA51DA} = {1AF53C47-3525-4BC6-8F3C-50141036BD2E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE08E871-FDBD-468A-B8E4-3C246617C7A0}
