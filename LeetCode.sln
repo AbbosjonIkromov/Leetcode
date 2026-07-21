@@ -691,6 +691,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1556-ThousandSeparator", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThousandSeparator", "ThousandSeparator\ThousandSeparator.csproj", "{BFBFC27A-1299-480F-81A2-886C1ECA51DA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1446-ConsecutiveCharacters", "1446-ConsecutiveCharacters", "{E6B2E18E-075C-48DD-AEA2-F007D6A5ECB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsecutiveCharacters", "ConsecutiveCharacters\ConsecutiveCharacters.csproj", "{5931F02E-C025-4B08-80F4-624C13916C84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1381,6 +1385,10 @@ Global
 		{BFBFC27A-1299-480F-81A2-886C1ECA51DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFBFC27A-1299-480F-81A2-886C1ECA51DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFBFC27A-1299-480F-81A2-886C1ECA51DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5931F02E-C025-4B08-80F4-624C13916C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5931F02E-C025-4B08-80F4-624C13916C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5931F02E-C025-4B08-80F4-624C13916C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5931F02E-C025-4B08-80F4-624C13916C84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1729,6 +1737,8 @@ Global
 		{B8608E81-B857-4D75-A6D2-8DB5F97CE907} = {AFFB71B5-3BA8-432C-B00A-1A7DDCA70142}
 		{1AF53C47-3525-4BC6-8F3C-50141036BD2E} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
 		{BFBFC27A-1299-480F-81A2-886C1ECA51DA} = {1AF53C47-3525-4BC6-8F3C-50141036BD2E}
+		{E6B2E18E-075C-48DD-AEA2-F007D6A5ECB6} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
+		{5931F02E-C025-4B08-80F4-624C13916C84} = {E6B2E18E-075C-48DD-AEA2-F007D6A5ECB6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE08E871-FDBD-468A-B8E4-3C246617C7A0}
