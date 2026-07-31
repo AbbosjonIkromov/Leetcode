@@ -715,6 +715,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1346-CheckIfNAndItsDoubleEx
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfNAndItsDoubleExit", "CheckIfNAndItsDoubleExit\CheckIfNAndItsDoubleExit.csproj", "{DBBBAAAF-1BEC-4D49-90BC-68C07BD6E41F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1636-SortArrayByIncreasingFrequency", "1636-SortArrayByIncreasingFrequency", "{446159EF-A801-485B-A5A2-C133D9B796D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArrayByIncreasingFrequency", "SortArrayByIncreasingFrequency\SortArrayByIncreasingFrequency.csproj", "{F01121E9-04A7-47E6-A7BA-E467029A5311}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1429,6 +1433,10 @@ Global
 		{DBBBAAAF-1BEC-4D49-90BC-68C07BD6E41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBBBAAAF-1BEC-4D49-90BC-68C07BD6E41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBBBAAAF-1BEC-4D49-90BC-68C07BD6E41F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F01121E9-04A7-47E6-A7BA-E467029A5311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01121E9-04A7-47E6-A7BA-E467029A5311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01121E9-04A7-47E6-A7BA-E467029A5311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01121E9-04A7-47E6-A7BA-E467029A5311}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1789,6 +1797,8 @@ Global
 		{3CED2CE6-BAB8-430C-8A61-A5876E558680} = {DF4FA69B-F17A-407D-8C00-A70065A4D288}
 		{9B9F346E-0FEE-4C61-9F99-1099791E10B2} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
 		{DBBBAAAF-1BEC-4D49-90BC-68C07BD6E41F} = {9B9F346E-0FEE-4C61-9F99-1099791E10B2}
+		{446159EF-A801-485B-A5A2-C133D9B796D4} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
+		{F01121E9-04A7-47E6-A7BA-E467029A5311} = {446159EF-A801-485B-A5A2-C133D9B796D4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE08E871-FDBD-468A-B8E4-3C246617C7A0}
