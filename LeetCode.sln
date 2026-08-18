@@ -743,6 +743,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2073-TimeNeededToBuyTickets
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeNeededToBuyTicket", "TimeNeededToBuyTicket\TimeNeededToBuyTicket.csproj", "{58320E83-F077-4F2F-8F2F-78D3C64C484E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2154-KeepMultiplyingFoundValuesByTwo", "2154-KeepMultiplyingFoundValuesByTwo", "{F2C6F391-734A-4467-B76E-68FCC634EF97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepMultiplyingFoundValuesByTwo", "KeepMultiplyingFoundValuesByTwo\KeepMultiplyingFoundValuesByTwo.csproj", "{8A7BDF90-287D-445F-986E-4CE4207E1B05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1485,6 +1489,10 @@ Global
 		{58320E83-F077-4F2F-8F2F-78D3C64C484E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58320E83-F077-4F2F-8F2F-78D3C64C484E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58320E83-F077-4F2F-8F2F-78D3C64C484E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7BDF90-287D-445F-986E-4CE4207E1B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7BDF90-287D-445F-986E-4CE4207E1B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7BDF90-287D-445F-986E-4CE4207E1B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7BDF90-287D-445F-986E-4CE4207E1B05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1859,6 +1867,8 @@ Global
 		{C71BEE4B-9793-4AC8-96E0-1578429BC2D7} = {0814FC89-16C3-469C-A651-1507368511B6}
 		{1D602F7A-78C0-4283-907A-3196CA682D09} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
 		{58320E83-F077-4F2F-8F2F-78D3C64C484E} = {1D602F7A-78C0-4283-907A-3196CA682D09}
+		{F2C6F391-734A-4467-B76E-68FCC634EF97} = {124FCCB3-8704-42B7-A172-9AE2B12B3611}
+		{8A7BDF90-287D-445F-986E-4CE4207E1B05} = {F2C6F391-734A-4467-B76E-68FCC634EF97}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE08E871-FDBD-468A-B8E4-3C246617C7A0}
